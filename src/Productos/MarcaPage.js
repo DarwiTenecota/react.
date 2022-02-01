@@ -1,0 +1,58 @@
+function GenerosPage(props){
+return(
+    <p>
+        LISTADO DE NOMBRES 
+        Hugo 
+ Martín 
+ Lucas 
+ Mateo 
+ Leo 
+ Daniel 
+ Alejandro 
+ Pablo 
+ Manuel
+ Álvaro 
+ Adrián 
+ David 
+ Mario 
+ Enzo 
+ Diego 
+ Marcos 
+ Izan
+ Javier 
+ Marco 
+ Álex 
+ Bruno 
+ Oliver 
+ Miguel 
+ Thiago 
+ Antonio 
+ Marc 
+ Carlos 
+ Ángel 
+ Juan 
+ Gonzalo 
+ Gael 
+ Sergio 
+ Nicolás 
+ Dylan 
+ Gabriel 
+ Jorge 
+ José 
+ Adam 
+ Liam 
+ Eric 
+ Samuel 
+ Darío 
+ Héctor 
+ Luca 
+ Iker 
+ Amir 
+ Rodrigo 
+ Saúl 
+ Víctor 
+    </p>
+);
+
+}
+export default GenerosPage
